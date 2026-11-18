@@ -1,0 +1,3 @@
+- insert:
+    - id: client-deliverable-pipeline
+      name: '@liuhange/dsh-client-deliverable-pipeline'
