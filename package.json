@@ -1,6 +1,6 @@
 {
   "name": "@liuhange/dsh-client-deliverable-pipeline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Markdown to client-grade printable HTML report inside DSH: cover page, brand color, TOC, print pagination rules, A4 output. Markdown 转客户级可打印 HTML 报告，浏览器 Ctrl+P 直接导出 PDF。",
   "keywords": [
     "dsh",
